@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/init-data/contacts.js</file>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/config/cors.js</file>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/views/layout_1.ejs</file>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/config/views.js</file>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/api/models/Contact.js</file>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/api/controllers/ContactController.js</file>
+            <file>file:/home/shameer/workspace/10/sails-postgres-crud-api/config/routes.js</file>
+        </group>
+    </open-files>
+</project-private>
